@@ -4,27 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9c43673-ebff-445f-a2cf-415c67556aaa" name="Changes" comment="footer 영역">
-      <change afterPath="$PROJECT_DIR$/파노라마 페이지 제작/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/파노라마 페이지 제작/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/파노라마 페이지 제작/img/bg.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/파노라마 페이지 제작/img/btn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/파노라마 페이지 제작/img/intro.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/파노라마 페이지 제작/img/line.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/파노라마 페이지 제작/img/loop.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/파노라마 페이지 제작/img/member1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/파노라마 페이지 제작/img/member2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/파노라마 페이지 제작/img/member3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/파노라마 페이지 제작/img/pattern.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/파노라마 페이지 제작/img/reflect.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/파노라마 페이지 제작/img/robot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/파노라마 페이지 제작/img/tit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/파노라마 페이지 제작/img/txt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/파노라마 페이지 제작/img/txt2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/파노라마 페이지 제작/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/파노라마 페이지 제작/js/ie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/파노라마 페이지 제작/js/main.js" afterDir="false" />
+    <list default="true" id="e9c43673-ebff-445f-a2cf-415c67556aaa" name="Changes" comment="풀스크린 배경에 동영상 삽입">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/파노라마 페이지 제작/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/파노라마 페이지 제작/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/파노라마 페이지 제작/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/파노라마 페이지 제작/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +70,7 @@
       <workItem from="1692233625917" duration="3249000" />
       <workItem from="1692776774357" duration="9000" />
       <workItem from="1692776808061" duration="8841000" />
-      <workItem from="1692855876215" duration="7004000" />
+      <workItem from="1692855876215" duration="7174000" />
     </task>
     <task id="LOCAL-00001" summary="배경과 프로필 카드 모양 잡기">
       <created>1692809482041</created>
@@ -166,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692861488599</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="풀스크린 배경에 동영상 삽입">
+      <created>1692874433080</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1692874433080</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +174,7 @@
     <MESSAGE value="figuer 영역" />
     <MESSAGE value="section 영역" />
     <MESSAGE value="footer 영역" />
-    <option name="LAST_COMMIT_MESSAGE" value="footer 영역" />
+    <MESSAGE value="풀스크린 배경에 동영상 삽입" />
+    <option name="LAST_COMMIT_MESSAGE" value="풀스크린 배경에 동영상 삽입" />
   </component>
 </project>
