@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9c43673-ebff-445f-a2cf-415c67556aaa" name="Changes" comment="멤버별 프로필 완성">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interactive3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/기업형 웹 페이지 제작/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/기업형 웹 페이지 제작/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/기업형 웹 페이지 제작/img/brand4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/기업형 웹 페이지 제작/img/news1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/기업형 웹 페이지 제작/img/news2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/기업형 웹 페이지 제작/img/news3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/기업형 웹 페이지 제작/img/news4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/기업형 웹 페이지 제작/img/visual.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/기업형 웹 페이지 제작/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/온라인 프로필 카드 제작/img/member1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/온라인 프로필 카드 제작/img/member2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/온라인 프로필 카드 제작/img/member3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/온라인 프로필 카드 제작/img/member4.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2U5dxsNorSrkuPBMN3uMQQPCVmO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/an123/IdeaProjects/interactive3/기업형 웹 페이지 제작",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\an123\IdeaProjects\interactive3\기업형 웹 페이지 제작" />
+      <recent name="C:\Users\an123\IdeaProjects\interactive3\온라인 프로필 카드 제작" />
+      <recent name="C:\Users\an123\IdeaProjects\interactive3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\an123\IdeaProjects\interactive3" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9c43673-ebff-445f-a2cf-415c67556aaa" name="Changes" comment="" />
+      <created>1692233624894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692233624894</updated>
+      <workItem from="1692233625917" duration="3249000" />
+      <workItem from="1692776774357" duration="9000" />
+      <workItem from="1692776808061" duration="8841000" />
+      <workItem from="1692855876215" duration="1757000" />
+    </task>
+    <task id="LOCAL-00001" summary="배경과 프로필 카드 모양 잡기">
+      <created>1692809482041</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692809482041</updated>
+    </task>
+    <task id="LOCAL-00002" summary="상단 메뉴 영역 완성">
+      <created>1692810994263</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692810994263</updated>
+    </task>
+    <task id="LOCAL-00003" summary="프로필 영역 만들기">
+      <created>1692811801656</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692811801656</updated>
+    </task>
+    <task id="LOCAL-00004" summary="연락처 목록 완성">
+      <created>1692812445434</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692812445434</updated>
+    </task>
+    <task id="LOCAL-00005" summary="멤버별 프로필 링크 버튼 만들기">
+      <created>1692812855576</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692812855576</updated>
+    </task>
+    <task id="LOCAL-00006" summary="선택한 프로필 카드의 버튼만 활성화">
+      <created>1692812989177</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1692812989177</updated>
+    </task>
+    <task id="LOCAL-00007" summary="멤버별 프로필 완성">
+      <created>1692813299813</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1692813299813</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="배경과 프로필 카드 모양 잡기" />
+    <MESSAGE value="상단 메뉴 영역 완성" />
+    <MESSAGE value="프로필 영역 만들기" />
+    <MESSAGE value="연락처 목록 완성" />
+    <MESSAGE value="멤버별 프로필 링크 버튼 만들기" />
+    <MESSAGE value="선택한 프로필 카드의 버튼만 활성화" />
+    <MESSAGE value="멤버별 프로필 완성" />
+    <option name="LAST_COMMIT_MESSAGE" value="멤버별 프로필 완성" />
+  </component>
+</project>
