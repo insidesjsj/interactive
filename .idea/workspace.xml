@@ -4,25 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9c43673-ebff-445f-a2cf-415c67556aaa" name="Changes" comment="멤버별 프로필 완성">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interactive3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/기업형 웹 페이지 제작/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/기업형 웹 페이지 제작/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/기업형 웹 페이지 제작/img/brand4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/기업형 웹 페이지 제작/img/news1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/기업형 웹 페이지 제작/img/news2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/기업형 웹 페이지 제작/img/news3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/기업형 웹 페이지 제작/img/news4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/기업형 웹 페이지 제작/img/visual.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/기업형 웹 페이지 제작/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/온라인 프로필 카드 제작/img/member1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/온라인 프로필 카드 제작/img/member2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/온라인 프로필 카드 제작/img/member3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/온라인 프로필 카드 제작/img/member4.jpg" afterDir="false" />
+    <list default="true" id="e9c43673-ebff-445f-a2cf-415c67556aaa" name="Changes" comment="header 영역">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/기업형 웹 페이지 제작/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/기업형 웹 페이지 제작/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/기업형 웹 페이지 제작/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/기업형 웹 페이지 제작/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +67,7 @@
       <workItem from="1692233625917" duration="3249000" />
       <workItem from="1692776774357" duration="9000" />
       <workItem from="1692776808061" duration="8841000" />
-      <workItem from="1692855876215" duration="1757000" />
+      <workItem from="1692855876215" duration="3185000" />
     </task>
     <task id="LOCAL-00001" summary="배경과 프로필 카드 모양 잡기">
       <created>1692809482041</created>
@@ -133,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692813299813</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="header 영역">
+      <created>1692857670429</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1692857670429</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +139,7 @@
     <MESSAGE value="멤버별 프로필 링크 버튼 만들기" />
     <MESSAGE value="선택한 프로필 카드의 버튼만 활성화" />
     <MESSAGE value="멤버별 프로필 완성" />
-    <option name="LAST_COMMIT_MESSAGE" value="멤버별 프로필 완성" />
+    <MESSAGE value="header 영역" />
+    <option name="LAST_COMMIT_MESSAGE" value="header 영역" />
   </component>
 </project>
