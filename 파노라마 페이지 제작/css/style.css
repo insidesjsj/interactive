@@ -34,6 +34,11 @@ body {
     position: fixed;
     opacity: 0.5;
 }
+@keyframes ani {
+    /* y축 기준 한 번 회전 */
+    0% {transform: rotateY(0deg);}
+    100% {transform: rotateY(360deg);}
+}
 .wrap #circle {
     width: 600px;
     height: 800px;
@@ -42,6 +47,13 @@ body {
     left: 50%;
     margin-top: -400px;
     margin-left: -300px;
+    transform-style: preserve-3d;
+    animation: ani linear 30s infinite;
+    /*
+    ani : 키프레임 호출
+    linear 30s : 한바퀴 회전 30초
+    infinite : 무한대로 돈다.
+    */
 }
 .wrap #circle article {
     width: 100%;
