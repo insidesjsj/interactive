@@ -94,7 +94,7 @@ body {
 }
 /* face1 */
 .wrap #circle .face1 {
-    display: none;
+    display: block;
 }
 .wrap #circle .face1 .inner>div {
     width: 290px;
@@ -129,7 +129,7 @@ body {
 }
 /* face2 */
 .wrap #circle .face2 {
-    display: none;
+    display: block;
 }
 .wrap #circle .face2 .inner>div {
     width: 100%;
@@ -150,7 +150,7 @@ body {
 }
 /* face3 */
 .wrap #circle .face3 {
-    display: none;
+    display: block;
 }
 .wrap #circle .face3 .inner>div {
     width: 100%;
@@ -201,7 +201,7 @@ body {
 }
 /* face4 */
 .wrap #circle .face4 {
-    display: none;
+    display: block;
 }
 .wrap #circle .face4 .inner>div p {
     font: 16px/1.3 "arial";
@@ -233,7 +233,7 @@ body {
 }
 /* face5 */
 .wrap #circle .face5 {
-    display: none;
+    display: block;
 }
 .wrap #circle .face5 .inner>div {
     width: 100%;
@@ -262,7 +262,7 @@ body {
 }
 /* face6 */
 .wrap #circle .face6 {
-    display: none;
+    display: block;
 }
 .wrap #circle .face6 .inner>div {
     width: 100%;
@@ -295,7 +295,7 @@ body {
 }
 /* face7 */
 .wrap #circle .face7 {
-    display: none;
+    display: block;
 }
 .wrap #circle .face7 .inner>div {
     width: 100%;
@@ -437,9 +437,28 @@ body {
     top: 0px;
     right: 40px;
 }
-
-
-
-
-
-
+/* 3D 배치 */
+.face1{
+    transform: rotateY(0deg);
+}
+.face2{
+    transform: rotateY(45deg);
+}
+.face3{
+    transform: rotateY(90deg);
+}
+.face4{
+    transform: rotateY(135deg);
+}
+.face5{
+    transform: rotateY(180deg);
+}
+.face6{
+    transform: rotateY(225deg);
+}
+.face7{
+    transform: rotateY(270deg);
+}
+.face8{
+    transform: rotateY(315deg);
+}
