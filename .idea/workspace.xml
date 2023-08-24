@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9c43673-ebff-445f-a2cf-415c67556aaa" name="Changes" comment="3번째 박스 콘텐츠 만들기">
+    <list default="true" id="e9c43673-ebff-445f-a2cf-415c67556aaa" name="Changes" comment="4번째 박스 콘텐츠 만들기">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/파노라마 페이지 제작/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/파노라마 페이지 제작/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/파노라마 페이지 제작/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/파노라마 페이지 제작/index.html" afterDir="false" />
@@ -71,7 +71,7 @@
       <workItem from="1692233625917" duration="3249000" />
       <workItem from="1692776774357" duration="9000" />
       <workItem from="1692776808061" duration="8841000" />
-      <workItem from="1692855876215" duration="14822000" />
+      <workItem from="1692855876215" duration="15860000" />
     </task>
     <task id="LOCAL-00001" summary="배경과 프로필 카드 모양 잡기">
       <created>1692809482041</created>
@@ -206,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692897871572</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="4번째 박스 콘텐츠 만들기">
+      <created>1692897923201</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1692897923201</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,6 +238,7 @@
     <MESSAGE value="1번째 박스 콘텐츠 만들기" />
     <MESSAGE value="2번째 박스 콘텐츠 만들기" />
     <MESSAGE value="3번째 박스 콘텐츠 만들기" />
-    <option name="LAST_COMMIT_MESSAGE" value="3번째 박스 콘텐츠 만들기" />
+    <MESSAGE value="4번째 박스 콘텐츠 만들기" />
+    <option name="LAST_COMMIT_MESSAGE" value="4번째 박스 콘텐츠 만들기" />
   </component>
 </project>
