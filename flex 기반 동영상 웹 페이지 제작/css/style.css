@@ -30,8 +30,24 @@ main header {
     align-content: center;
     position: relative;
     z-index: 3;
-    border: 10px solid pink;
 }
+main header h1 {
+    font-size: 0px;     /* 안쪽의 자간과 줄 높이를 초기화 */
+    color: #fff;
+}
+main header h1 i {
+    font-size: 5vw;
+    margin-bottom: 15px;
+}
+main header h1 span {
+    font: normal 0.8vw/1 "arial";
+}
+main header address {
+    font: normal 11px/1.2 "arial";
+    color: #888;
+}
+
+
 main nav {
     position: absolute;
     top: 10vh;
