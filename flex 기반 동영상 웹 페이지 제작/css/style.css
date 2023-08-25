@@ -1,0 +1,50 @@
+@charset "utf-8";
+@import url("https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@100&display=swap");
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+ul, ol, li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    outline: 0;
+
+}
+main {
+    width: 100%;
+    height: 100vh;
+    background: #333;
+    display: flex;
+}
+main header {
+    width: 20%;
+    height: 100%;
+    padding: 10vh 5vw;
+    display: flex;
+    flex-wrap: wrap;            /* 세로로 줄 바꿈 */
+    justify-content: center;    /* 자식 박스를 부모의 중앙으로 배치 */
+    align-content: center;
+    position: relative;
+    z-index: 3;
+    border: 10px solid pink;
+}
+main nav {
+    position: absolute;
+    top: 10vh;
+    right: 5vw;
+    z-index: 3;
+    border: 10px solid aqua;
+}
+main section {
+    position: relative;
+    width: 80%;
+    height: 100%;
+    display: flex;
+    padding-top: 140px;
+    z-index: 1;
+    border: 10px solid yellow;
+}
