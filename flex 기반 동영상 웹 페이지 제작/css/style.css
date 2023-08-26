@@ -125,3 +125,21 @@ main section article .inner .txt p {
     font: 14px/1.4 "arial";
     color: #999;
 }
+/* 동영상 박스 */
+main section article .inner figure {
+    width: 100%;
+    height: 15vh;
+    background: #777;
+    transform-origin: left center;
+    box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.3);
+    position: relative;
+    overflow: hidden;
+    filter: saturate(10%); /* 영상 박스의 채도를 낮춤 */
+    transition: 1s;
+}
+main section article .inner figure video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transform: scale(1.1);  /* 영상 가장자리의 여백을 숨기기 위해 약간 확대 */
+}

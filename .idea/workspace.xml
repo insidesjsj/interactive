@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9c43673-ebff-445f-a2cf-415c67556aaa" name="Changes" comment="nav 영역 콘텐츠 채우기 + header align-content 수정">
+    <list default="true" id="e9c43673-ebff-445f-a2cf-415c67556aaa" name="Changes" comment="메인 콘텐츠 article 영역 채우기">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flex 기반 동영상 웹 페이지 제작/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/flex 기반 동영상 웹 페이지 제작/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flex 기반 동영상 웹 페이지 제작/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/flex 기반 동영상 웹 페이지 제작/index.html" afterDir="false" />
@@ -71,7 +71,7 @@
       <workItem from="1692233625917" duration="3249000" />
       <workItem from="1692776774357" duration="9000" />
       <workItem from="1692776808061" duration="8841000" />
-      <workItem from="1692855876215" duration="26211000" />
+      <workItem from="1692855876215" duration="27323000" />
     </task>
     <task id="LOCAL-00001" summary="배경과 프로필 카드 모양 잡기">
       <created>1692809482041</created>
@@ -283,14 +283,20 @@
       <option name="project" value="LOCAL" />
       <updated>1692941924058</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="메인 콘텐츠 article 영역 채우기">
+      <created>1692942868123</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1692942868123</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="멤버별 프로필 링크 버튼 만들기" />
     <MESSAGE value="선택한 프로필 카드의 버튼만 활성화" />
     <MESSAGE value="멤버별 프로필 완성" />
     <MESSAGE value="header 영역" />
@@ -315,6 +321,7 @@
     <MESSAGE value="flex로 풀 스크린 레이아웃 구성" />
     <MESSAGE value="header 영역 콘텐츠 채우기" />
     <MESSAGE value="nav 영역 콘텐츠 채우기 + header align-content 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="nav 영역 콘텐츠 채우기 + header align-content 수정" />
+    <MESSAGE value="메인 콘텐츠 article 영역 채우기" />
+    <option name="LAST_COMMIT_MESSAGE" value="메인 콘텐츠 article 영역 채우기" />
   </component>
 </project>
