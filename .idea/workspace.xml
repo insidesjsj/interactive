@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9c43673-ebff-445f-a2cf-415c67556aaa" name="Changes" comment="동영상 박스 추가">
+    <list default="true" id="e9c43673-ebff-445f-a2cf-415c67556aaa" name="Changes" comment="article 영역에 호버 추가">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flex 기반 동영상 웹 페이지 제작/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/flex 기반 동영상 웹 페이지 제작/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flex 기반 동영상 웹 페이지 제작/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/flex 기반 동영상 웹 페이지 제작/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +70,7 @@
       <workItem from="1692233625917" duration="3249000" />
       <workItem from="1692776774357" duration="9000" />
       <workItem from="1692776808061" duration="8841000" />
-      <workItem from="1692855876215" duration="28124000" />
+      <workItem from="1692855876215" duration="28461000" />
     </task>
     <task id="LOCAL-00001" summary="배경과 프로필 카드 모양 잡기">
       <created>1692809482041</created>
@@ -296,14 +296,20 @@
       <option name="project" value="LOCAL" />
       <updated>1693025913871</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="article 영역에 호버 추가">
+      <created>1693026730117</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1693026730117</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="멤버별 프로필 완성" />
     <MESSAGE value="header 영역" />
     <MESSAGE value="figuer 영역" />
     <MESSAGE value="section 영역" />
@@ -328,6 +334,7 @@
     <MESSAGE value="nav 영역 콘텐츠 채우기 + header align-content 수정" />
     <MESSAGE value="메인 콘텐츠 article 영역 채우기" />
     <MESSAGE value="동영상 박스 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="동영상 박스 추가" />
+    <MESSAGE value="article 영역에 호버 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="article 영역에 호버 추가" />
   </component>
 </project>
