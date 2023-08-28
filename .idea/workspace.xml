@@ -4,11 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9c43673-ebff-445f-a2cf-415c67556aaa" name="Changes" comment="마우스 포인터를 올리면 동영상 재생">
+    <list default="true" id="e9c43673-ebff-445f-a2cf-415c67556aaa" name="Changes" comment="목록 클릭하면 영상 소개 페이지 보여주기">
+      <change afterPath="$PROJECT_DIR$/뮤직 플레이어/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/뮤직 플레이어/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/뮤직 플레이어/img/member1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/뮤직 플레이어/img/member2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/뮤직 플레이어/img/member3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/뮤직 플레이어/img/member4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/뮤직 플레이어/img/member5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/뮤직 플레이어/img/member6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/뮤직 플레이어/img/member7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/뮤직 플레이어/img/member8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/뮤직 플레이어/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/뮤직 플레이어/js/ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/뮤직 플레이어/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/뮤직 플레이어/music/Blizzards.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/뮤직 플레이어/music/Calm.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/뮤직 플레이어/music/Dusty_Road.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/뮤직 플레이어/music/Escape.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/뮤직 플레이어/music/Payday.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/뮤직 플레이어/music/Retreat.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/뮤직 플레이어/music/Seasonal.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/뮤직 플레이어/music/Vespers.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flex 기반 동영상 웹 페이지 제작/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/flex 기반 동영상 웹 페이지 제작/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flex 기반 동영상 웹 페이지 제작/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/flex 기반 동영상 웹 페이지 제작/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flex 기반 동영상 웹 페이지 제작/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/flex 기반 동영상 웹 페이지 제작/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,34 +46,36 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2U5dxsNorSrkuPBMN3uMQQPCVmO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/an123/IdeaProjects/interactive3/flex 기반 동영상 웹 페이지 제작&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/an123/IdeaProjects/interactive3/뮤직 플레이어",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\an123\IdeaProjects\interactive3\flex 기반 동영상 웹 페이지 제작" />
-      <recent name="C:\Users\an123\IdeaProjects\interactive3\파노라마 페이지 제작\js" />
-      <recent name="C:\Users\an123\IdeaProjects\interactive3\파노라마 페이지 제작" />
-      <recent name="C:\Users\an123\IdeaProjects\interactive3\기업형 웹 페이지 제작" />
-      <recent name="C:\Users\an123\IdeaProjects\interactive3\온라인 프로필 카드 제작" />
+      <recent name="C:\Users\an123\IdeaProjects\interactive3\뮤직 플레이어" />
+      <recent name="C:\Users\an123\IdeaProjects\interactive3\뮤직 플레이어\css" />
+      <recent name="C:\Users\an123\IdeaProjects\interactive3\뮤직 플레이어\img" />
+      <recent name="C:\Users\an123\IdeaProjects\interactive3\뮤직 플레이어\js" />
+      <recent name="C:\Users\an123\IdeaProjects\interactive3\뮤직 플레이어\music" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\an123\IdeaProjects\interactive3" />
@@ -73,7 +93,8 @@
       <workItem from="1692776774357" duration="9000" />
       <workItem from="1692776808061" duration="8841000" />
       <workItem from="1692855876215" duration="29934000" />
-      <workItem from="1693203519895" duration="1881000" />
+      <workItem from="1693203519895" duration="2698000" />
+      <workItem from="1693233272467" duration="1863000" />
     </task>
     <task id="LOCAL-00001" summary="배경과 프로필 카드 모양 잡기">
       <created>1692809482041</created>
@@ -313,14 +334,20 @@
       <option name="project" value="LOCAL" />
       <updated>1693027142525</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="목록 클릭하면 영상 소개 페이지 보여주기">
+      <created>1693217599277</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1693217599277</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="figuer 영역" />
     <MESSAGE value="section 영역" />
     <MESSAGE value="footer 영역" />
     <MESSAGE value="풀스크린 배경에 동영상 삽입" />
@@ -345,6 +372,7 @@
     <MESSAGE value="동영상 박스 추가" />
     <MESSAGE value="article 영역에 호버 추가" />
     <MESSAGE value="마우스 포인터를 올리면 동영상 재생" />
-    <option name="LAST_COMMIT_MESSAGE" value="마우스 포인터를 올리면 동영상 재생" />
+    <MESSAGE value="목록 클릭하면 영상 소개 페이지 보여주기" />
+    <option name="LAST_COMMIT_MESSAGE" value="목록 클릭하면 영상 소개 페이지 보여주기" />
   </component>
 </project>
