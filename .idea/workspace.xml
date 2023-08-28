@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9c43673-ebff-445f-a2cf-415c67556aaa" name="Changes" comment="article 패널을 자바스크립트로 회전">
+    <list default="true" id="e9c43673-ebff-445f-a2cf-415c67556aaa" name="Changes" comment="전체 패널 아래쪽으로 내리기">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/뮤직 플레이어/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/뮤직 플레이어/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/뮤직 플레이어/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/뮤직 플레이어/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/뮤직 플레이어/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/뮤직 플레이어/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +76,7 @@
       <workItem from="1692776808061" duration="8841000" />
       <workItem from="1692855876215" duration="29934000" />
       <workItem from="1693203519895" duration="2698000" />
-      <workItem from="1693233272467" duration="3550000" />
+      <workItem from="1693233272467" duration="3752000" />
     </task>
     <task id="LOCAL-00001" summary="배경과 프로필 카드 모양 잡기">
       <created>1692809482041</created>
@@ -342,14 +344,20 @@
       <option name="project" value="LOCAL" />
       <updated>1693240034664</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="전체 패널 아래쪽으로 내리기">
+      <created>1693240096095</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1693240096095</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="콘텐츠 박스를 묶는 부모 프레임 생성" />
     <MESSAGE value="자식 콘텐츠 박스 3개 생성" />
     <MESSAGE value="콘텐츠 박스 8개의 공통 스타일 지정" />
     <MESSAGE value="1번째 박스 콘텐츠 만들기" />
@@ -374,6 +382,7 @@
     <MESSAGE value="flex로 풀스크린 레이아웃 구성" />
     <MESSAGE value="뮤직 플레이어 패널 생성" />
     <MESSAGE value="article 패널을 자바스크립트로 회전" />
-    <option name="LAST_COMMIT_MESSAGE" value="article 패널을 자바스크립트로 회전" />
+    <MESSAGE value="전체 패널 아래쪽으로 내리기" />
+    <option name="LAST_COMMIT_MESSAGE" value="전체 패널 아래쪽으로 내리기" />
   </component>
 </project>
