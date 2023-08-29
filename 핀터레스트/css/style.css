@@ -1,0 +1,29 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css?family=Orbitron&display=swap");
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+ul,ol,li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+body {
+    background: #efefef;
+}
+header {
+    width: 400px;
+    height: 100%;
+    background: linear-gradient(45deg, aqua, royalblue);
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+main{
+    margin-left: 400px;
+    box-sizing: border-box;
+    padding: 20px;
+}

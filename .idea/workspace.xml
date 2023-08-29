@@ -4,11 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9c43673-ebff-445f-a2cf-415c67556aaa" name="Changes" comment="컨트롤 패널 버튼으로 음악을 재생 정지하기">
+    <list default="true" id="e9c43673-ebff-445f-a2cf-415c67556aaa" name="Changes" comment="좌우 버튼 클릭시 패널 회전">
+      <change afterPath="$PROJECT_DIR$/핀터레스트/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/핀터레스트/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/핀터레스트/img/p1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/핀터레스트/img/p10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/핀터레스트/img/p11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/핀터레스트/img/p12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/핀터레스트/img/p13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/핀터레스트/img/p14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/핀터레스트/img/p15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/핀터레스트/img/p16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/핀터레스트/img/p17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/핀터레스트/img/p18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/핀터레스트/img/p19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/핀터레스트/img/p2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/핀터레스트/img/p20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/핀터레스트/img/p3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/핀터레스트/img/p4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/핀터레스트/img/p5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/핀터레스트/img/p6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/핀터레스트/img/p7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/핀터레스트/img/p8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/핀터레스트/img/p9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/핀터레스트/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/핀터레스트/js/ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/핀터레스트/js/isotope.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/핀터레스트/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/뮤직 플레이어/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/뮤직 플레이어/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/뮤직 플레이어/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/뮤직 플레이어/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/뮤직 플레이어/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/뮤직 플레이어/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,29 +58,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/an123/IdeaProjects/interactive3/뮤직 플레이어&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/an123/IdeaProjects/interactive3/핀터레스트",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\an123\IdeaProjects\interactive3\핀터레스트" />
       <recent name="C:\Users\an123\IdeaProjects\interactive3\뮤직 플레이어" />
       <recent name="C:\Users\an123\IdeaProjects\interactive3\뮤직 플레이어\css" />
       <recent name="C:\Users\an123\IdeaProjects\interactive3\뮤직 플레이어\img" />
       <recent name="C:\Users\an123\IdeaProjects\interactive3\뮤직 플레이어\js" />
-      <recent name="C:\Users\an123\IdeaProjects\interactive3\뮤직 플레이어\music" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\an123\IdeaProjects\interactive3" />
@@ -78,7 +101,7 @@
       <workItem from="1693203519895" duration="2698000" />
       <workItem from="1693233272467" duration="4997000" />
       <workItem from="1693267888902" duration="6128000" />
-      <workItem from="1693285605857" duration="2390000" />
+      <workItem from="1693285605857" duration="4363000" />
     </task>
     <task id="LOCAL-00001" summary="배경과 프로필 카드 모양 잡기">
       <created>1692809482041</created>
@@ -381,14 +404,20 @@
       <option name="project" value="LOCAL" />
       <updated>1693271646701</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="좌우 버튼 클릭시 패널 회전">
+      <created>1693298464922</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1693298464922</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3번째 박스 콘텐츠 만들기" />
     <MESSAGE value="4번째 박스 콘텐츠 만들기" />
     <MESSAGE value="5번째 박스 콘텐츠 만들기" />
     <MESSAGE value="6번째 박스 콘텐츠 만들기" />
@@ -413,6 +442,7 @@
     <MESSAGE value="패널에 음악 커버 이미지 생성" />
     <MESSAGE value="음악 정보와 컨트롤 버튼 생성" />
     <MESSAGE value="컨트롤 패널 버튼으로 음악을 재생 정지하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="컨트롤 패널 버튼으로 음악을 재생 정지하기" />
+    <MESSAGE value="좌우 버튼 클릭시 패널 회전" />
+    <option name="LAST_COMMIT_MESSAGE" value="좌우 버튼 클릭시 패널 회전" />
   </component>
 </project>
