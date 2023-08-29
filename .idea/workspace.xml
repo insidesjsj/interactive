@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9c43673-ebff-445f-a2cf-415c67556aaa" name="Changes" comment="헤더 영역 로고 추가">
+    <list default="true" id="e9c43673-ebff-445f-a2cf-415c67556aaa" name="Changes" comment="헤더 영역 하단에 SNS 버튼 추가하기">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/핀터레스트/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/핀터레스트/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/핀터레스트/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/핀터레스트/index.html" afterDir="false" />
@@ -77,7 +77,7 @@
       <workItem from="1693203519895" duration="2698000" />
       <workItem from="1693233272467" duration="4997000" />
       <workItem from="1693267888902" duration="6128000" />
-      <workItem from="1693285605857" duration="5721000" />
+      <workItem from="1693285605857" duration="7257000" />
     </task>
     <task id="LOCAL-00001" summary="배경과 프로필 카드 모양 잡기">
       <created>1692809482041</created>
@@ -401,14 +401,20 @@
       <option name="project" value="LOCAL" />
       <updated>1693301938365</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="헤더 영역 하단에 SNS 버튼 추가하기">
+      <created>1693314455021</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1693314455021</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="6번째 박스 콘텐츠 만들기" />
     <MESSAGE value="7번째 박스 콘텐츠 만들기" />
     <MESSAGE value="8번째 박스 콘텐츠 만들기" />
     <MESSAGE value="각 박스 3D 형태 배치" />
@@ -433,6 +439,7 @@
     <MESSAGE value="좌우 버튼 클릭시 패널 회전" />
     <MESSAGE value="기본세팅 + 세로형 메뉴 구조 레이아웃 제작" />
     <MESSAGE value="헤더 영역 로고 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="헤더 영역 로고 추가" />
+    <MESSAGE value="헤더 영역 하단에 SNS 버튼 추가하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="헤더 영역 하단에 SNS 버튼 추가하기" />
   </component>
 </project>
