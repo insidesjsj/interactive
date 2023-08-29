@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9c43673-ebff-445f-a2cf-415c67556aaa" name="Changes" comment="패널에 음악 커버 이미지 생성">
+    <list default="true" id="e9c43673-ebff-445f-a2cf-415c67556aaa" name="Changes" comment="음악 정보와 컨트롤 버튼 생성">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/뮤직 플레이어/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/뮤직 플레이어/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/뮤직 플레이어/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/뮤직 플레이어/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/뮤직 플레이어/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/뮤직 플레이어/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +76,7 @@
       <workItem from="1692855876215" duration="29934000" />
       <workItem from="1693203519895" duration="2698000" />
       <workItem from="1693233272467" duration="4997000" />
-      <workItem from="1693267888902" duration="1380000" />
+      <workItem from="1693267888902" duration="3202000" />
     </task>
     <task id="LOCAL-00001" summary="배경과 프로필 카드 모양 잡기">
       <created>1692809482041</created>
@@ -365,14 +365,20 @@
       <option name="project" value="LOCAL" />
       <updated>1693241528204</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="음악 정보와 컨트롤 버튼 생성">
+      <created>1693270246102</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1693270246102</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1번째 박스 콘텐츠 만들기" />
     <MESSAGE value="2번째 박스 콘텐츠 만들기" />
     <MESSAGE value="3번째 박스 콘텐츠 만들기" />
     <MESSAGE value="4번째 박스 콘텐츠 만들기" />
@@ -397,6 +403,7 @@
     <MESSAGE value="전체 패널 아래쪽으로 내리기" />
     <MESSAGE value="가운데 패널 활성화" />
     <MESSAGE value="패널에 음악 커버 이미지 생성" />
-    <option name="LAST_COMMIT_MESSAGE" value="패널에 음악 커버 이미지 생성" />
+    <MESSAGE value="음악 정보와 컨트롤 버튼 생성" />
+    <option name="LAST_COMMIT_MESSAGE" value="음악 정보와 컨트롤 버튼 생성" />
   </component>
 </project>

@@ -177,6 +177,26 @@ figure section article .inner .txt ul li.play:hover {
     transform: scale(2.0);  /* 재생 버튼은 마우스 호버시 2배 확대 */
     opacity: 1;
 }
+@keyframes ani {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(3650deg);
+    }
+}
+@keyframes ani2 {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(3650deg);
+    }
+}
 
-
-
+figure section article .inner .pic.on::after {
+    animation: ani 4s linear infinite;
+}
+figure section article .inner .pic.on::before {
+    animation: ani2 4s linear infinite;
+}
