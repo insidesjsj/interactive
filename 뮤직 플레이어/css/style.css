@@ -138,6 +138,45 @@ figure section article .inner .pic .dot {
     z-index: 3;
     box-shadow: inset 5px 5px 10px rgba(0, 0, 0, 0.1);
 }
+/* 컨트롤 버튼 */
+figure section article .inner .txt {
+    text-align: center;
+    position: relative;
+    z-index: 3;
+}
+figure section article .inner .txt h2 {
+    font-size: 20px;
+    font-family: arial;
+    color: #222;
+    margin-bottom: 2vh;
+}
+figure section article .inner .txt p {
+    font-size: 12px;
+    margin-bottom: 3vh;
+    color: #777;
+
+}
+figure section article .inner .txt ul {
+    display: flex;
+    justify-content: space-around;
+}
+figure section article .inner .txt ul li {
+    cursor: pointer;
+    opacity: 0.6;
+    transition: 0.5s;
+}
+figure section article .inner .txt ul li.play {
+    transform: scale(1.5);
+    opacity: 0.9;
+}
+figure section article .inner .txt ul li:hover {
+    transform: scale(1.5);  /* 일시정지, 다시 듣기 버튼은 마우스 호버시 1.5배 확대 */
+    opacity: 0.8;
+}
+figure section article .inner .txt ul li.play:hover {
+    transform: scale(2.0);  /* 재생 버튼은 마우스 호버시 2배 확대 */
+    opacity: 1;
+}
 
 
 
