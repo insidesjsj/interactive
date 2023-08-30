@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9c43673-ebff-445f-a2cf-415c67556aaa" name="Changes" comment="오른쪽 메인 영역에 갤러리 추가">
+    <list default="true" id="e9c43673-ebff-445f-a2cf-415c67556aaa" name="Changes" comment="float 배치한 레이아웃 재정렬하기">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/핀터레스트/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/핀터레스트/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/핀터레스트/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/핀터레스트/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +76,7 @@
       <workItem from="1693203519895" duration="2698000" />
       <workItem from="1693233272467" duration="4997000" />
       <workItem from="1693267888902" duration="6128000" />
-      <workItem from="1693285605857" duration="7573000" />
+      <workItem from="1693285605857" duration="9175000" />
     </task>
     <task id="LOCAL-00001" summary="배경과 프로필 카드 모양 잡기">
       <created>1692809482041</created>
@@ -414,14 +414,20 @@
       <option name="project" value="LOCAL" />
       <updated>1693316362283</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="float 배치한 레이아웃 재정렬하기">
+      <created>1693316657725</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1693316657725</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="8번째 박스 콘텐츠 만들기" />
     <MESSAGE value="각 박스 3D 형태 배치" />
     <MESSAGE value="각 박스를 z축으로 보내서 원통모양 만들기" />
     <MESSAGE value="UI 전체를 animation을 회전" />
@@ -446,6 +452,7 @@
     <MESSAGE value="헤더 영역 로고 추가" />
     <MESSAGE value="헤더 영역 하단에 SNS 버튼 추가하기" />
     <MESSAGE value="오른쪽 메인 영역에 갤러리 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="오른쪽 메인 영역에 갤러리 추가" />
+    <MESSAGE value="float 배치한 레이아웃 재정렬하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="float 배치한 레이아웃 재정렬하기" />
   </component>
 </project>
