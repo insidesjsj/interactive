@@ -1,3 +1,46 @@
+const frame = "section";
+const box = "article";
+const speed = '0.5s';
+const activeClass = "on";
+const btn = document.querySelectorAll("main ul li");
+let grid;   // 플러그인의 정보값이 담길 변수를 이곳에 전역으로 설정
+
+// 이미지 소스를 활용한 모든 콘텐츠의 로딩이 완료되면
+window.addEventListener("load", ()=>{
+    init();         // 화면초기화 함수 호출
+    filter(btn);    // 정렬 버튼 기능의 함수 호출
+});
+
+// 화면 초기화 함수 정의
+function init() {
+    grid = new Isotope(frame, {
+        itemSelector: box,
+        columnWidth: box,
+        transitionDuration: speed
+    });
+}
+
+// 정렬 버튼 기능의 함수 정의
+function filter(arr){
+    for(let el of arr){
+        el.addEventListener("click", e=>{
+            e.preventDefault();
+
+            const sort = e.currentTarget.querySelector("a").getAttribute("href");
+
+            grid.arrange({
+                filter: sort
+            });
+
+            for(let el of arr){
+                el.classList.remove(activeClass);
+            }
+            e.currentTarget.classList.add(activeClass);
+        });
+    }
+}
+/*
+
 // 페이지 로드 이벤트
 window.addEventListener("load", () => {
     const grid = new Isotope("section", {
@@ -31,7 +74,7 @@ window.addEventListener("load", () => {
             }
             // 클릭한 대상만 선택해서 클래스명 on을 추가해 활성화
             e.currentTarget.classList.add("on");
-        })
-
+        });
     }
 });
+*/
